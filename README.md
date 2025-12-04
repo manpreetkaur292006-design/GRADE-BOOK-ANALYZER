@@ -43,8 +43,11 @@ python Grade-Book-Analyzer.py
 # CSV Format Example
 
 Name,Marks
+
 John,85
+
 Mary,78
+
 David,92
 
 ---
